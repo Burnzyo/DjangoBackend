@@ -79,9 +79,9 @@ WSGI_APPLICATION = 'parchapp.wsgi.application'
 DATABASES = {
     'default': {
         'ENGINE': 'django.db.backends.mysql',
-        'NAME': 'parchapp',
-        'USER': 'admin',
-        'PASSWORD': 'parchappadmin',
+        'NAME': '',
+        'USER': '',
+        'PASSWORD': '',
         'HOST': '',
         'PORT': '3306',
     }
